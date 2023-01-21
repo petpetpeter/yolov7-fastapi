@@ -4,7 +4,7 @@ Simple example of how to deploy YOLov7 model with FastAPI and Docker.
 
 - clone repo
 ```
-git clone xxx
+git clone https://github.com/petpetpeter/yolov7-fastapi.git
 ```
 - start app locally
 ```
